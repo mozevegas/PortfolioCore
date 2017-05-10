@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 1140 360"
+   enable-background="new 0 0 1140 360"
+   version="1.1"
+   id="svg3684"
+   sodipodi:docname="banner1A.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata3690">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3688">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 180 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1140 : 180 : 1"
+       inkscape:persp3d-origin="570 : 120 : 1"
+       id="perspective3807" />
+    <filter
+       inkscape:menu-tooltip="Pressed metal with a rolled edge"
+       inkscape:menu="Bevels"
+       inkscape:label="Pressed Steel"
+       style="color-interpolation-filters:sRGB;"
+       id="filter3804">
+      <feGaussianBlur
+         result="result1"
+         stdDeviation="3"
+         id="feGaussianBlur3782" />
+      <feBlend
+         in2="result1"
+         result="result5"
+         mode="multiply"
+         in="result1"
+         id="feBlend3784" />
+      <feGaussianBlur
+         in="result5"
+         result="result6"
+         stdDeviation="1"
+         id="feGaussianBlur3786" />
+      <feComposite
+         result="result8"
+         in2="result5"
+         in="result6"
+         operator="xor"
+         id="feComposite3788" />
+      <feComposite
+         in="result6"
+         result="fbSourceGraphic"
+         operator="xor"
+         in2="result8"
+         id="feComposite3790" />
+      <feSpecularLighting
+         in="fbSourceGraphic"
+         result="result1"
+         lighting-color="rgb(255,255,255)"
+         surfaceScale="2"
+         specularConstant="2.2"
+         specularExponent="55"
+         id="feSpecularLighting3794">
+        <fePointLight
+           x="-5000"
+           y="-10000"
+           z="20000"
+           id="fePointLight3792" />
+      </feSpecularLighting>
+      <feComposite
+         in2="fbSourceGraphic"
+         in="result1"
+         result="result2"
+         operator="in"
+         id="feComposite3796" />
+      <feComposite
+         in="fbSourceGraphic"
+         result="result4"
+         operator="arithmetic"
+         k2="2"
+         k3="1"
+         in2="result2"
+         id="feComposite3798" />
+      <feComposite
+         in2="result4"
+         in="result4"
+         operator="in"
+         result="result91"
+         id="feComposite3800" />
+      <feBlend
+         mode="darken"
+         in2="result91"
+         id="feBlend3802" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3686"
+     showgrid="false"
+     inkscape:zoom="1.5482456"
+     inkscape:cx="499.27479"
+     inkscape:cy="154.16431"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3684"
+     inkscape:snap-text-baseline="false" />
+  <path
+     d="M0 0h1140v360h-1140v-360z"
+     id="path3680"
+     fill="#56B4D9"
+     style="fill:#0000ff" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:31.82664299px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:1.19349909;filter:url(#filter3804)"
+     x="253.47934"
+     y="143.86832"
+     id="text3708"
+     transform="scale(0.97515129,1.0254819)"><tspan
+       sodipodi:role="line"
+       x="253.47934"
+       y="143.86832"
+       id="tspan3706"
+       style="stroke-width:1.19349909"><tspan
+         x="253.47934"
+         y="143.86832"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:89.11460114px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Heavy';fill:#cccccc;stroke-width:1.19349909"
+         id="tspan3704">Moises Vargas</tspan></tspan></text>
+  <g
+     sodipodi:type="inkscape:box3d"
+     id="g3809"
+     style="fill:#cccccc"
+     inkscape:perspectiveID="#perspective3807"
+     inkscape:corner0="3.263285 : 0.68318839 : 0 : 1"
+     inkscape:corner7="3.1046513 : 0.63613954 : 14.771751 : 1">
+    <path
+       sodipodi:type="inkscape:box3dside"
+       id="path3811"
+       style="fill:#353564;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+       inkscape:box3dsidetype="6"
+       d="M 133.69972,33.824365 V 44.860186 L 914.6185,149.73268 v -2.4717 z"
+       points="133.69972,44.860186 914.6185,149.73268 914.6185,147.26098 133.69972,33.824365 " />
+    <path
+       sodipodi:type="inkscape:box3dside"
+       id="path3821"
+       style="fill:#e9e9ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+       inkscape:box3dsidetype="11"
+       d="m 914.6185,147.26098 7.68628,-0.27513 v 2.49247 l -7.68628,0.25436 z"
+       points="922.30478,146.98585 922.30478,149.47832 914.6185,149.73268 914.6185,147.26098 " />
+    <path
+       sodipodi:type="inkscape:box3dside"
+       id="path3813"
+       style="fill:#4d4d9f;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+       inkscape:box3dsidetype="5"
+       d="m 133.69972,33.824365 5.16713,-5.649293 783.43793,118.810778 -7.68628,0.27513 z"
+       points="138.86685,28.175072 922.30478,146.98585 914.6185,147.26098 133.69972,33.824365 " />
+    <path
+       sodipodi:type="inkscape:box3dside"
+       id="path3819"
+       style="fill:#afafde;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+       inkscape:box3dsidetype="13"
+       d="m 133.69972,44.860186 5.16713,-5.222789 783.43793,109.840923 -7.68628,0.25436 z"
+       points="138.86685,39.637397 922.30478,149.47832 914.6185,149.73268 133.69972,44.860186 " />
+    <path
+       sodipodi:type="inkscape:box3dside"
+       id="path3817"
+       style="fill:#d7d7ff;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+       inkscape:box3dsidetype="14"
+       d="M 138.86685,28.175072 V 39.637397 L 922.30478,149.47832 v -2.49247 z"
+       points="138.86685,39.637397 922.30478,149.47832 922.30478,146.98585 138.86685,28.175072 " />
+    <path
+       sodipodi:type="inkscape:box3dside"
+       id="path3815"
+       style="fill:#8686bf;fill-rule:evenodd;stroke:none;stroke-linejoin:round"
+       inkscape:box3dsidetype="3"
+       d="m 133.69972,33.824365 5.16713,-5.649293 v 11.462325 l -5.16713,5.222789 z"
+       points="138.86685,28.175072 138.86685,39.637397 133.69972,44.860186 133.69972,33.824365 " />
+  </g>
+</svg>

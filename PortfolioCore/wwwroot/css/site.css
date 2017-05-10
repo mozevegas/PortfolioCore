@@ -48,3 +48,10 @@ textarea {
         display: none;
     }
 }
+.navbar-inverse {
+    background-color: royalblue;
+}
+.carousel-caption p {
+    font-size: 80px;
+    font-family: 'Shrikhand', cursive;
+}
